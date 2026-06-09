@@ -21,17 +21,17 @@ Sistema de optimización de infraestructura eléctrica basado en el **Algoritmo 
    ```
 1. Generar el dataset procesado:
    ```bash
-python convertidor.py
+   python convertidor.py
    ```
 ### B. Interfaz Visual (Frontend)
 1. Abrir terminal en la carpeta frontend_react/.
 2. Instalar dependencias:
    ```bash
-npm install
+   npm install
    ```
 3. Ejecutar la aplicación:
    ```bash
-npm start
+   npm start
    ```
 ## 4. Estructura de Datos
 El sistema permite filtrar por cualquier tipo de fuente de energía disponible en el dataset y seleccionar zonas geográficas específicas. La lógica central del algoritmo se encuentra en prim.py, lo que permite validar la eficiencia algorítmica de forma independiente a la interfaz visual.
