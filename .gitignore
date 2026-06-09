@@ -1,0 +1,11 @@
+# Dependencias de Node
+node_modules/
+# Archivos de entorno virtual de Python
+venv/
+env/
+# Carpetas de caché y logs
+__pycache__/
+.DS_Store
+*.log
+# Archivos de configuración personal de VS Code
+.vscode/
