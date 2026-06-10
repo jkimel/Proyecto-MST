@@ -4,7 +4,7 @@ Sistema de optimización de infraestructura eléctrica basado en el **Algoritmo 
 
 ## 1. Stack Tecnológico
 * **Backend:** Python (Pandas, Geopy) para procesamiento y geocodificación.
-* **Algoritmos:** Implementación de Prim ($O(E \log V)$) utilizando Lista de Adyacencia y MinHeap.
+* **Algoritmos:** Implementación de Prim (O(E log V)) utilizando Lista de Adyacencia y MinHeap.
 * **Frontend:** React + Leaflet para visualización interactiva de mapas y grafos.
 
 ## 2. Requisitos Previos
