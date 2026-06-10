@@ -1,0 +1,1890 @@
+[
+  {
+    "nombre":"AGUA DEL CAJON (AUTOGENERADOR DEL MEM)",
+    "lat":-38.9368,
+    "lon":-68.3556,
+    "cap":479.2,
+    "tipo":"Other",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"AGUA DEL CAJON (GENERADOR DEL MEM)",
+    "lat":-38.9368,
+    "lon":-68.3556,
+    "cap":192.0,
+    "tipo":"Gas",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"AGUA DEL TORO",
+    "lat":-34.5792,
+    "lon":-68.9892,
+    "cap":130.0,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"ALICURA",
+    "lat":-40.58,
+    "lon":-70.7489,
+    "cap":1050.0,
+    "tipo":"Hydro",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"ALMIRANTE BROWN",
+    "lat":-34.8386,
+    "lon":-58.4033,
+    "cap":25.0,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"ALTO VALLE",
+    "lat":-38.9524,
+    "lon":-68.0218,
+    "cap":97.5,
+    "tipo":"Gas",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"ALUMINE",
+    "lat":-39.2145,
+    "lon":-70.9157,
+    "cap":1.904,
+    "tipo":"Oil",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"ALVAREZ CONDARCO",
+    "lat":-33.0452,
+    "lon":-69.0516,
+    "cap":50.7,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"ARROYITO",
+    "lat":-39.1009,
+    "lon":-68.5982,
+    "cap":128.0,
+    "tipo":"Hydro",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"ATUCHA I",
+    "lat":-33.967,
+    "lon":-59.2059,
+    "cap":370.0,
+    "tipo":"Nuclear",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"ATUCHA II",
+    "lat":-33.9674,
+    "lon":-59.2045,
+    "cap":745.0,
+    "tipo":"Nuclear",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"BANDERA",
+    "lat":-23.8219,
+    "lon":-64.7847,
+    "cap":31.0,
+    "tipo":"Oil",
+    "zona":"Jujuy"
+  },
+  {
+    "nombre":"BARILOCHE (PUERTO  MORENO)",
+    "lat":-41.1167,
+    "lon":-71.4167,
+    "cap":5.736,
+    "tipo":"Oil",
+    "zona":"Río Negro"
+  },
+  {
+    "nombre":"BENJAMIN REOLIN",
+    "lat":-32.1883,
+    "lon":-64.3233,
+    "cap":38.4,
+    "tipo":"Hydro",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"BERNARDO  DE IRIGOYEN",
+    "lat":-26.2545,
+    "lon":-53.6469,
+    "cap":2.096,
+    "tipo":"Oil",
+    "zona":"Misiones"
+  },
+  {
+    "nombre":"C.T. RUFINO",
+    "lat":-34.2605,
+    "lon":-62.7107,
+    "cap":31.9,
+    "tipo":"Oil",
+    "zona":"Santa Fe"
+  },
+  {
+    "nombre":"C.T. SAN VICENTE",
+    "lat":-35.0241,
+    "lon":-58.4237,
+    "cap":27.6,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CAA CATI",
+    "lat":-27.7534,
+    "lon":-57.6205,
+    "cap":1.415,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"CABRA CORRAL",
+    "lat":-25.2712,
+    "lon":-65.3298,
+    "cap":102.0,
+    "tipo":"Hydro",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"CACHEUTA (NUEVA)",
+    "lat":-33.0291,
+    "lon":-69.1109,
+    "cap":120.0,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"CACHI",
+    "lat":-25.1089,
+    "lon":-66.2106,
+    "cap":1.07,
+    "tipo":"Oil",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"CAFAYATE",
+    "lat":-26.0715,
+    "lon":-65.9876,
+    "cap":4.182,
+    "tipo":"Oil",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"CAPITAL CATAMARCA - PREDIO CHOYA",
+    "lat":-28.4537,
+    "lon":-65.7841,
+    "cap":5.728,
+    "tipo":"Oil",
+    "zona":"Catamarca"
+  },
+  {
+    "nombre":"CAPITAL CATAMARCA - PREDIO EX CARCEL",
+    "lat":-28.4773,
+    "lon":-65.7872,
+    "cap":7.075,
+    "tipo":"Oil",
+    "zona":"Catamarca"
+  },
+  {
+    "nombre":"CAPITAL CATAMARCA - PREDIO RIPIERA",
+    "lat":-28.4684,
+    "lon":-65.7797,
+    "cap":4.675,
+    "tipo":"Oil",
+    "zona":"Catamarca"
+  },
+  {
+    "nombre":"CASA DE PIEDRA",
+    "lat":-38.2143,
+    "lon":-67.1908,
+    "cap":60.0,
+    "tipo":"Hydro",
+    "zona":"La Pampa"
+  },
+  {
+    "nombre":"CASSAFFOUSTH",
+    "lat":-31.3992,
+    "lon":-64.2006,
+    "cap":17.28,
+    "tipo":"Hydro",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"CENTRAL BAHIA BLANCA (PIEDRA BUENA) SA",
+    "lat":-38.7872,
+    "lon":-62.2536,
+    "cap":620.0,
+    "tipo":"Coal",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CENTRAL LOMA DE LA LATA SA",
+    "lat":-38.5127,
+    "lon":-68.6048,
+    "cap":540.0,
+    "tipo":"Gas",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"CENTRAL PARQUE INDUSTRIAL LA BANDA",
+    "lat":-38.062,
+    "lon":-67.9463,
+    "cap":11.228,
+    "tipo":"Oil",
+    "zona":"Río Negro"
+  },
+  {
+    "nombre":"CENTRAL T.GENELBA",
+    "lat":-34.9027,
+    "lon":-58.7334,
+    "cap":673.6,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CENTRAL T.GENELBA PLUS",
+    "lat":-34.9027,
+    "lon":-58.7334,
+    "cap":164.55,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CENTRAL TERMICA BRIGADIER LOPEZ (ENARSA)",
+    "lat":-31.7112,
+    "lon":-60.7811,
+    "cap":280.0,
+    "tipo":"Gas",
+    "zona":"Santa Fe"
+  },
+  {
+    "nombre":"CENTRAL TERMICA DE CICLO COMBINADO SALTA",
+    "lat":-24.7456,
+    "lon":-65.0513,
+    "cap":643.0,
+    "tipo":"Gas",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"CENTRAL TERMICA GÜEMES SA",
+    "lat":-24.6894,
+    "lon":-65.0425,
+    "cap":361.0,
+    "tipo":"Coal",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"CENTRAL TERMICA LA BANDA",
+    "lat":-27.7528,
+    "lon":-64.2655,
+    "cap":32.0,
+    "tipo":"Gas",
+    "zona":"Santiago del Estero"
+  },
+  {
+    "nombre":"CENTRAL TERMICA PIQUIRENDA SA",
+    "lat":-22.3497,
+    "lon":-63.7664,
+    "cap":30.44,
+    "tipo":"Oil",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"CENTRAL TERMICA REMEDIOS DE ESCALADA",
+    "lat":-34.7208,
+    "lon":-58.3881,
+    "cap":25.0,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CENTRAL TERMOELECTRICA GUILLERMO BROWN",
+    "lat":-34.6268,
+    "lon":-58.5438,
+    "cap":524.0,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CENTRAL TERMOELECTRICA MANUEL BELGRANO",
+    "lat":-24.6894,
+    "lon":-65.0425,
+    "cap":868.2,
+    "tipo":"Gas",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"CENTRAL TERMOELECTRICA TIMBUES",
+    "lat":-32.5778,
+    "lon":-60.791,
+    "cap":865.14,
+    "tipo":"Gas",
+    "zona":"Santa Fe"
+  },
+  {
+    "nombre":"CH LOS CARACOLES",
+    "lat":-31.5192,
+    "lon":-68.9814,
+    "cap":121.4,
+    "tipo":"Hydro",
+    "zona":"San Juan"
+  },
+  {
+    "nombre":"CHILECITO",
+    "lat":-29.1578,
+    "lon":-67.5069,
+    "cap":5.0,
+    "tipo":"Oil",
+    "zona":"La Rioja"
+  },
+  {
+    "nombre":"CHIMBERA 1",
+    "lat":-31.9881,
+    "lon":-68.5402,
+    "cap":2.0,
+    "tipo":"Solar",
+    "zona":"San Juan"
+  },
+  {
+    "nombre":"CIPOLLETTI",
+    "lat":-38.9121,
+    "lon":-67.9427,
+    "cap":5.78,
+    "tipo":"Hydro",
+    "zona":"Río Negro"
+  },
+  {
+    "nombre":"COMANDANTE ANDRESITO",
+    "lat":-25.6669,
+    "lon":-54.0419,
+    "cap":2.372,
+    "tipo":"Oil",
+    "zona":"Misiones"
+  },
+  {
+    "nombre":"COMODORO RIVADAVIA",
+    "lat":-25.9913,
+    "lon":-54.6278,
+    "cap":141.02,
+    "tipo":"Gas",
+    "zona":"Misiones"
+  },
+  {
+    "nombre":"COMODORO RIVADAVIA - ANTONIO MORAN",
+    "lat":-45.8467,
+    "lon":-67.4964,
+    "cap":16.56,
+    "tipo":"Wind",
+    "zona":"Chubut"
+  },
+  {
+    "nombre":"CORRIENTES",
+    "lat":-27.4708,
+    "lon":-58.8042,
+    "cap":1.4,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"COSTANERA",
+    "lat":-34.626,
+    "lon":-58.3393,
+    "cap":1982.2,
+    "tipo":"Coal",
+    "zona":"Ciudad Autónoma de Buenos Aires"
+  },
+  {
+    "nombre":"CRUZ DE PIEDRA",
+    "lat":-33.0349,
+    "lon":-68.7971,
+    "cap":17.94,
+    "tipo":"Gas",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"CRUZ DEL EJE",
+    "lat":-30.7636,
+    "lon":-64.7538,
+    "cap":5.052,
+    "tipo":"Oil",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"CT 13 DE JULIO",
+    "lat":-32.1613,
+    "lon":-64.1537,
+    "cap":26.0,
+    "tipo":"Gas",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"CT ALEM",
+    "lat":-43.0907,
+    "lon":-65.2298,
+    "cap":15.0,
+    "tipo":"Oil",
+    "zona":"Chubut"
+  },
+  {
+    "nombre":"CT ALUMINE",
+    "lat":-38.8706,
+    "lon":-70.5753,
+    "cap":6.3,
+    "tipo":"Oil",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"CT ARISTOBULO DEL VALLE",
+    "lat":-27.0922,
+    "lon":-54.8625,
+    "cap":15.0,
+    "tipo":"Oil",
+    "zona":"Misiones"
+  },
+  {
+    "nombre":"CT ARRECIFES",
+    "lat":-34.0414,
+    "lon":-60.1297,
+    "cap":20.0,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT AÑATUYA",
+    "lat":-28.4431,
+    "lon":-62.8569,
+    "cap":19.2,
+    "tipo":"Oil",
+    "zona":"Santiago del Estero"
+  },
+  {
+    "nombre":"CT AÑATUYA II",
+    "lat":-28.4431,
+    "lon":-62.8569,
+    "cap":11.5,
+    "tipo":"Oil",
+    "zona":"Santiago del Estero"
+  },
+  {
+    "nombre":"CT BARILOCHE",
+    "lat":-41.1497,
+    "lon":-71.2633,
+    "cap":20.0,
+    "tipo":"Oil",
+    "zona":"Río Negro"
+  },
+  {
+    "nombre":"CT BELL VILLE",
+    "lat":-32.6103,
+    "lon":-62.6864,
+    "cap":15.62,
+    "tipo":"Oil",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"CT BRAGADO",
+    "lat":-35.1364,
+    "lon":-60.4311,
+    "cap":49.8,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT CAPITAN SARMIENTO",
+    "lat":-34.1636,
+    "lon":-59.7683,
+    "cap":5.0,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT CATAMARCA",
+    "lat":-28.4706,
+    "lon":-65.7647,
+    "cap":19.2,
+    "tipo":"Oil",
+    "zona":"Catamarca"
+  },
+  {
+    "nombre":"CT CAVIAHUE",
+    "lat":-38.0528,
+    "lon":-70.6136,
+    "cap":5.0,
+    "tipo":"Oil",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"CT CERES",
+    "lat":-29.8883,
+    "lon":-61.9297,
+    "cap":18.0,
+    "tipo":"Oil",
+    "zona":"Santa Fe"
+  },
+  {
+    "nombre":"CT CHARATA",
+    "lat":-27.2369,
+    "lon":-61.1939,
+    "cap":19.4,
+    "tipo":"Oil",
+    "zona":"Chaco"
+  },
+  {
+    "nombre":"CT CHILECITO",
+    "lat":-29.1581,
+    "lon":-67.5072,
+    "cap":10.0,
+    "tipo":"Oil",
+    "zona":"La Rioja"
+  },
+  {
+    "nombre":"CT CIPOLLETTI",
+    "lat":-38.9133,
+    "lon":-67.9414,
+    "cap":5.0,
+    "tipo":"Oil",
+    "zona":"Río Negro"
+  },
+  {
+    "nombre":"CT COLON BUENOS AIRES",
+    "lat":-33.9222,
+    "lon":-61.0769,
+    "cap":15.3,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT CONCEPCION DEL URUGUAY",
+    "lat":-32.4767,
+    "lon":-58.2672,
+    "cap":41.78,
+    "tipo":"Gas",
+    "zona":"Entre Ríos"
+  },
+  {
+    "nombre":"CT CORRIENTES",
+    "lat":-27.4708,
+    "lon":-58.8042,
+    "cap":20.0,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"CT ECOENERGIA (PETROBRAS)",
+    "lat":-38.6871,
+    "lon":-62.3961,
+    "cap":13.2,
+    "tipo":"Coal",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT ENSENADA DE BARRAGAN",
+    "lat":-34.8597,
+    "lon":-57.9557,
+    "cap":567.0,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT ESQUINA",
+    "lat":-30.055,
+    "lon":-59.5294,
+    "cap":16.5,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"CT FORMOSA II",
+    "lat":-26.1764,
+    "lon":-58.2094,
+    "cap":30.0,
+    "tipo":"Oil",
+    "zona":"Formosa"
+  },
+  {
+    "nombre":"CT GENERAL VILLEGAS",
+    "lat":-35.0347,
+    "lon":-62.9981,
+    "cap":23.49,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT GOYA",
+    "lat":-29.1583,
+    "lon":-59.2728,
+    "cap":13.0,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"CT INDEPENDENCIA",
+    "lat":-26.8666,
+    "lon":-65.2247,
+    "cap":120.0,
+    "tipo":"Gas",
+    "zona":"Tucumán"
+  },
+  {
+    "nombre":"CT INGENIERO JUAREZ",
+    "lat":-23.9078,
+    "lon":-61.8342,
+    "cap":4.0,
+    "tipo":"Oil",
+    "zona":"Formosa"
+  },
+  {
+    "nombre":"CT INTA CATAMARCA",
+    "lat":-28.4733,
+    "lon":-65.7275,
+    "cap":7.04,
+    "tipo":"Oil",
+    "zona":"Catamarca"
+  },
+  {
+    "nombre":"CT ISLA VERDE",
+    "lat":-33.2425,
+    "lon":-62.395,
+    "cap":24.5,
+    "tipo":"Oil",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"CT JUAN JOSE CASTELLI",
+    "lat":-25.9564,
+    "lon":-60.6204,
+    "cap":15.0,
+    "tipo":"Oil",
+    "zona":"Chaco"
+  },
+  {
+    "nombre":"CT JUNIN",
+    "lat":-34.5708,
+    "lon":-60.9161,
+    "cap":22.0,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT LA PLATA",
+    "lat":-34.9344,
+    "lon":-58.016,
+    "cap":40.4,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT LA RIOJA DELIVERY",
+    "lat":-29.3811,
+    "lon":-66.8325,
+    "cap":19.2,
+    "tipo":"Oil",
+    "zona":"La Rioja"
+  },
+  {
+    "nombre":"CT LA RIOJA SUR",
+    "lat":-29.3808,
+    "lon":-66.8319,
+    "cap":10.0,
+    "tipo":"Oil",
+    "zona":"La Rioja"
+  },
+  {
+    "nombre":"CT LAGUNA BLANCA",
+    "lat":-25.1286,
+    "lon":-58.2597,
+    "cap":7.0,
+    "tipo":"Oil",
+    "zona":"Formosa"
+  },
+  {
+    "nombre":"CT LAS ARMAS",
+    "lat":-37.0781,
+    "lon":-57.8181,
+    "cap":10.4,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT LAS ARMAS II",
+    "lat":-37.0781,
+    "lon":-57.8181,
+    "cap":23.37,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT LAS PALMAS",
+    "lat":-27.0289,
+    "lon":-58.6997,
+    "cap":6.0,
+    "tipo":"Oil",
+    "zona":"Chaco"
+  },
+  {
+    "nombre":"CT LIBERTADOR GENERAL SAN MARTIN",
+    "lat":-40.8421,
+    "lon":-68.0869,
+    "cap":15.0,
+    "tipo":"Oil",
+    "zona":"Río Negro"
+  },
+  {
+    "nombre":"CT LINCOLN",
+    "lat":-34.8578,
+    "lon":-61.5206,
+    "cap":15.002,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT LOBOS",
+    "lat":-35.1917,
+    "lon":-59.0808,
+    "cap":15.686,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT MAGDALENA",
+    "lat":-35.1001,
+    "lon":-57.4839,
+    "cap":25.0,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT MATHEU",
+    "lat":-34.3931,
+    "lon":-58.8372,
+    "cap":41.0,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT MEDANITOS (RINCON DE LOS SAUCES)",
+    "lat":-37.4102,
+    "lon":-68.9,
+    "cap":32.0,
+    "tipo":"Oil",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"CT MIRAMAR I",
+    "lat":-38.2472,
+    "lon":-57.8242,
+    "cap":20.0,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT OLAVARRIA",
+    "lat":-36.9439,
+    "lon":-60.2361,
+    "cap":38.8,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT ORAN",
+    "lat":-23.1258,
+    "lon":-64.3069,
+    "cap":15.0,
+    "tipo":"Oil",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"CT PARANA",
+    "lat":-31.7764,
+    "lon":-60.4553,
+    "cap":40.0,
+    "tipo":"Gas",
+    "zona":"Entre Ríos"
+  },
+  {
+    "nombre":"CT PARQUE INDUSTRIAL CATAMARCA",
+    "lat":-28.5339,
+    "lon":-65.7997,
+    "cap":15.0,
+    "tipo":"Oil",
+    "zona":"Catamarca"
+  },
+  {
+    "nombre":"CT PASO DE LA PATRIA",
+    "lat":-27.3236,
+    "lon":-58.5667,
+    "cap":7.2,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"CT PEHUAJO",
+    "lat":-35.8336,
+    "lon":-61.8758,
+    "cap":22.4,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT PINAMAR",
+    "lat":-37.0953,
+    "lon":-56.8789,
+    "cap":21.0,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT PIRANE",
+    "lat":-25.6786,
+    "lon":-59.0756,
+    "cap":16.25,
+    "tipo":"Oil",
+    "zona":"Formosa"
+  },
+  {
+    "nombre":"CT PLUSPETROL NORTE",
+    "lat":-26.9955,
+    "lon":-65.166,
+    "cap":246.0,
+    "tipo":"Gas",
+    "zona":"Tucumán"
+  },
+  {
+    "nombre":"CT RAFAELA",
+    "lat":-31.2567,
+    "lon":-61.5203,
+    "cap":19.2,
+    "tipo":"Oil",
+    "zona":"Santa Fe"
+  },
+  {
+    "nombre":"CT REALICO",
+    "lat":-35.055,
+    "lon":-64.2406,
+    "cap":24.0,
+    "tipo":"Oil",
+    "zona":"La Pampa"
+  },
+  {
+    "nombre":"CT ROCA",
+    "lat":-31.8919,
+    "lon":-60.0106,
+    "cap":130.0,
+    "tipo":"Gas",
+    "zona":"Entre Ríos"
+  },
+  {
+    "nombre":"CT SAENZ PEÑA  I",
+    "lat":-26.8156,
+    "lon":-60.4114,
+    "cap":20.0,
+    "tipo":"Oil",
+    "zona":"Chaco"
+  },
+  {
+    "nombre":"CT SAENZ PEÑA  II",
+    "lat":-26.8153,
+    "lon":-60.4125,
+    "cap":15.0,
+    "tipo":"Oil",
+    "zona":"Chaco"
+  },
+  {
+    "nombre":"CT SALTO",
+    "lat":-27.4597,
+    "lon":-65.6055,
+    "cap":22.5,
+    "tipo":"Oil",
+    "zona":"Tucumán"
+  },
+  {
+    "nombre":"CT SAN MARTIN NORTE III",
+    "lat":-34.5252,
+    "lon":-58.6206,
+    "cap":5.1,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT SAN MIGUEL DE TUCUMAN",
+    "lat":-26.9955,
+    "lon":-65.166,
+    "cap":396.62,
+    "tipo":"Gas",
+    "zona":"Tucumán"
+  },
+  {
+    "nombre":"CT SAN MIGUEL NORTE III",
+    "lat":-34.5252,
+    "lon":-58.6206,
+    "cap":11.5,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"CT SANTA ROSA",
+    "lat":-28.2628,
+    "lon":-58.0006,
+    "cap":6.0,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"CT TARTAGAL",
+    "lat":-22.5406,
+    "lon":-63.8056,
+    "cap":10.0,
+    "tipo":"Oil",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"CT TEREVINTOS",
+    "lat":-28.4289,
+    "lon":-65.7878,
+    "cap":8.0,
+    "tipo":"Oil",
+    "zona":"Catamarca"
+  },
+  {
+    "nombre":"CT TINOGASTA",
+    "lat":-28.0486,
+    "lon":-67.5667,
+    "cap":15.0,
+    "tipo":"Oil",
+    "zona":"Catamarca"
+  },
+  {
+    "nombre":"CT TUCUMAN",
+    "lat":-26.9955,
+    "lon":-65.166,
+    "cap":438.0,
+    "tipo":"Gas",
+    "zona":"Tucumán"
+  },
+  {
+    "nombre":"CT VENADO TUERTO",
+    "lat":-33.7736,
+    "lon":-61.9564,
+    "cap":19.2,
+    "tipo":"Oil",
+    "zona":"Santa Fe"
+  },
+  {
+    "nombre":"CT VIALE",
+    "lat":-31.8919,
+    "lon":-60.0106,
+    "cap":10.0,
+    "tipo":"Oil",
+    "zona":"Entre Ríos"
+  },
+  {
+    "nombre":"CT VILLA ANGELA",
+    "lat":-27.5808,
+    "lon":-60.7094,
+    "cap":15.0,
+    "tipo":"Oil",
+    "zona":"Chaco"
+  },
+  {
+    "nombre":"CT VILLA REGINA",
+    "lat":-39.0872,
+    "lon":-67.0881,
+    "cap":5.0,
+    "tipo":"Oil",
+    "zona":"Río Negro"
+  },
+  {
+    "nombre":"CUESTA DEL VIENTO",
+    "lat":-30.1833,
+    "lon":-69.0667,
+    "cap":10.55,
+    "tipo":"Hydro",
+    "zona":"San Juan"
+  },
+  {
+    "nombre":"Cafayate",
+    "lat":-26.04,
+    "lon":-65.93,
+    "cap":80.0,
+    "tipo":"Solar",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"Caldenes del Oeste",
+    "lat":-33.61,
+    "lon":-65.445,
+    "cap":30.0,
+    "tipo":"Solar",
+    "zona":"San Luis"
+  },
+  {
+    "nombre":"Cauchari",
+    "lat":-23.8,
+    "lon":-66.8,
+    "cap":300.0,
+    "tipo":"Solar",
+    "zona":"Jujuy"
+  },
+  {
+    "nombre":"DEAN FUNES",
+    "lat":-31.3934,
+    "lon":-64.2059,
+    "cap":70.12,
+    "tipo":"Gas",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"DIQUE",
+    "lat":-34.8902,
+    "lon":-57.933,
+    "cap":68.44,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"DOCK SUD",
+    "lat":-34.6533,
+    "lon":-58.342,
+    "cap":872.3,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"EL CADILLAL",
+    "lat":-26.6156,
+    "lon":-65.1929,
+    "cap":14.0,
+    "tipo":"Hydro",
+    "zona":"Tucumán"
+  },
+  {
+    "nombre":"EL CARRIZAL",
+    "lat":-33.2993,
+    "lon":-68.7199,
+    "cap":17.0,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"EL CHOCON",
+    "lat":-39.2577,
+    "lon":-68.7483,
+    "cap":1200.0,
+    "tipo":"Hydro",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"EL TIGRE",
+    "lat":-34.61,
+    "lon":-68.6136,
+    "cap":14.4,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"EL TUNAL",
+    "lat":-25.2323,
+    "lon":-64.4762,
+    "cap":11.0,
+    "tipo":"Hydro",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"EMBALSE",
+    "lat":-32.2316,
+    "lon":-64.4422,
+    "cap":648.0,
+    "tipo":"Nuclear",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"ESCABA",
+    "lat":-27.6589,
+    "lon":-65.7633,
+    "cap":24.0,
+    "tipo":"Hydro",
+    "zona":"Tucumán"
+  },
+  {
+    "nombre":"ESQUINA",
+    "lat":-30.0102,
+    "lon":-59.5321,
+    "cap":2.215,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"EX CENTRAL BUENOS AIRES",
+    "lat":-34.627,
+    "lon":-58.3382,
+    "cap":321.0,
+    "tipo":"Gas",
+    "zona":"Ciudad Autónoma de Buenos Aires"
+  },
+  {
+    "nombre":"FILO MORADO",
+    "lat":-37.2742,
+    "lon":-69.652,
+    "cap":67.5,
+    "tipo":"Gas",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"FITZ SIMON",
+    "lat":-32.1784,
+    "lon":-64.4207,
+    "cap":10.8,
+    "tipo":"Hydro",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"FLORENTINO AMEGHINO",
+    "lat":-43.6996,
+    "lon":-66.4815,
+    "cap":60.0,
+    "tipo":"Hydro",
+    "zona":"Chubut"
+  },
+  {
+    "nombre":"FUTALEUFU",
+    "lat":-43.1288,
+    "lon":-71.63,
+    "cap":472.0,
+    "tipo":"Hydro",
+    "zona":"Chubut"
+  },
+  {
+    "nombre":"GENERACION FRIAS SA",
+    "lat":-28.6072,
+    "lon":-65.1228,
+    "cap":60.0,
+    "tipo":"Gas",
+    "zona":"Santiago del Estero"
+  },
+  {
+    "nombre":"GENERAL ACHA",
+    "lat":-37.4309,
+    "lon":-64.716,
+    "cap":1.8,
+    "tipo":"Wind",
+    "zona":"La Pampa"
+  },
+  {
+    "nombre":"GENERAL LEVALLE",
+    "lat":-34.0364,
+    "lon":-63.9217,
+    "cap":72.78,
+    "tipo":"Gas",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"GENERAL SAN MARTIN",
+    "lat":-33.0449,
+    "lon":-68.9219,
+    "cap":6.0,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"GOYA",
+    "lat":-29.1388,
+    "lon":-59.2277,
+    "cap":1.33,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"GOYA (ELECTROPATAGONIA SA)",
+    "lat":-29.1388,
+    "lon":-59.2277,
+    "cap":17.3,
+    "tipo":"Gas",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"GUILLERMO CESPEDES",
+    "lat":-39.56,
+    "lon":-65.6817,
+    "cap":5.2,
+    "tipo":"Hydro",
+    "zona":"Río Negro"
+  },
+  {
+    "nombre":"H. PICHI PICUN LEUFU",
+    "lat":-40.012,
+    "lon":-69.9918,
+    "cap":285.0,
+    "tipo":"Hydro",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"ISLA VERDE",
+    "lat":-33.2422,
+    "lon":-62.3946,
+    "cap":3.115,
+    "tipo":"Oil",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"ITA IBATE",
+    "lat":-27.4252,
+    "lon":-57.3341,
+    "cap":1.052,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"ITUZAINGO",
+    "lat":-27.5785,
+    "lon":-56.6726,
+    "cap":1.33,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"Iglesia-Guañizuil",
+    "lat":-30.34,
+    "lon":-69.27,
+    "cap":80.0,
+    "tipo":"Solar",
+    "zona":"San Juan"
+  },
+  {
+    "nombre":"JULIAN  ROMERO",
+    "lat":-38.8367,
+    "lon":-68.038,
+    "cap":6.2,
+    "tipo":"Hydro",
+    "zona":"Río Negro"
+  },
+  {
+    "nombre":"LA CRUZ",
+    "lat":-29.1762,
+    "lon":-56.6394,
+    "cap":1.33,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"LA PLATA COGENERACION",
+    "lat":-34.889,
+    "lon":-57.9206,
+    "cap":128.0,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"LA RIOJA",
+    "lat":-29.3823,
+    "lon":-66.8325,
+    "cap":42.0,
+    "tipo":"Oil",
+    "zona":"La Rioja"
+  },
+  {
+    "nombre":"LA TABLADA",
+    "lat":-27.4184,
+    "lon":-55.9097,
+    "cap":22.15,
+    "tipo":"Gas",
+    "zona":"Misiones"
+  },
+  {
+    "nombre":"LA VIÑA",
+    "lat":-31.8708,
+    "lon":-65.0349,
+    "cap":16.0,
+    "tipo":"Hydro",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"LAS MADERAS",
+    "lat":-24.4438,
+    "lon":-65.2203,
+    "cap":30.0,
+    "tipo":"Hydro",
+    "zona":"Jujuy"
+  },
+  {
+    "nombre":"LOS CORONELES (EX 25  DE MAYO)",
+    "lat":-34.6,
+    "lon":-68.5285,
+    "cap":6.6,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"LOS MOLINOS I",
+    "lat":-31.838,
+    "lon":-64.4452,
+    "cap":59.04,
+    "tipo":"Hydro",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"LOS MOLINOS II",
+    "lat":-31.838,
+    "lon":-64.4452,
+    "cap":4.5,
+    "tipo":"Hydro",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"LOS QUIROGA",
+    "lat":-27.6509,
+    "lon":-64.3618,
+    "cap":2.5,
+    "tipo":"Hydro",
+    "zona":"Santiago del Estero"
+  },
+  {
+    "nombre":"LOS REYUNOS",
+    "lat":-34.6028,
+    "lon":-68.6383,
+    "cap":224.0,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"LUJAN DE CUYO",
+    "lat":-33.0551,
+    "lon":-68.981,
+    "cap":549.76,
+    "tipo":"Gas",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"MAR DE AJO",
+    "lat":-36.7208,
+    "lon":-63.1977,
+    "cap":34.0,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"MAR DEL PLATA (9 DE JULIO)",
+    "lat":-38.0495,
+    "lon":-57.546,
+    "cap":201.3,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"MAYOR BURATOVICH",
+    "lat":-39.2291,
+    "lon":-62.6497,
+    "cap":2.02,
+    "tipo":"Wind",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"MBURUCUYA",
+    "lat":-28.0441,
+    "lon":-58.2285,
+    "cap":1.035,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"MERCEDES",
+    "lat":-29.1808,
+    "lon":-58.0793,
+    "cap":2.308,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"MODESTO MARANZANA",
+    "lat":-33.1608,
+    "lon":-64.3656,
+    "cap":250.0,
+    "tipo":"Gas",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"NECOCHEA",
+    "lat":-38.5785,
+    "lon":-58.7108,
+    "cap":206.0,
+    "tipo":"Coal",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"NIHUIL I",
+    "lat":-34.9907,
+    "lon":-68.6237,
+    "cap":74.24,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"NIHUIL II",
+    "lat":-34.9039,
+    "lon":-68.6177,
+    "cap":133.12,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"NIHUIL III",
+    "lat":-34.8821,
+    "lon":-68.576,
+    "cap":52.0,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"NIHUIL IV",
+    "lat":-34.833,
+    "lon":-68.5168,
+    "cap":22.4,
+    "tipo":"Hydro",
+    "zona":"Mendoza"
+  },
+  {
+    "nombre":"NUEVA ESPERANZA",
+    "lat":-26.2072,
+    "lon":-64.2477,
+    "cap":3.38,
+    "tipo":"Oil",
+    "zona":"Santiago del Estero"
+  },
+  {
+    "nombre":"NUEVO PUERTO",
+    "lat":-34.5721,
+    "lon":-58.3835,
+    "cap":1217.7,
+    "tipo":"Gas",
+    "zona":"Ciudad Autónoma de Buenos Aires"
+  },
+  {
+    "nombre":"OBERA (TG Nº21 FIAT )",
+    "lat":-27.5019,
+    "lon":-55.1245,
+    "cap":17.2,
+    "tipo":"Gas",
+    "zona":"Misiones"
+  },
+  {
+    "nombre":"ORENSE",
+    "lat":-38.6851,
+    "lon":-59.7804,
+    "cap":1.72,
+    "tipo":"Oil",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"PARANA",
+    "lat":-33.3549,
+    "lon":-60.1718,
+    "cap":845.26,
+    "tipo":"Other",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"PARQUE EOLICO ARAUCO SAPEM I",
+    "lat":-28.6684,
+    "lon":-66.7524,
+    "cap":25.2,
+    "tipo":"Wind",
+    "zona":"La Rioja"
+  },
+  {
+    "nombre":"PARQUE EOLICO ARAUCO SAPEM II",
+    "lat":-28.6684,
+    "lon":-66.7524,
+    "cap":25.2,
+    "tipo":"Wind",
+    "zona":"La Rioja"
+  },
+  {
+    "nombre":"PARQUE EOLICO DIADEMA",
+    "lat":-45.7458,
+    "lon":-67.6953,
+    "cap":6.3,
+    "tipo":"Wind",
+    "zona":"Chubut"
+  },
+  {
+    "nombre":"PARQUE EOLICO EL TORDILLO",
+    "lat":-45.8507,
+    "lon":-67.9081,
+    "cap":3.0,
+    "tipo":"Wind",
+    "zona":"Chubut"
+  },
+  {
+    "nombre":"PARQUE EOLICO LOMA BLANCA IV (ENARSA)",
+    "lat":-43.0907,
+    "lon":-65.2298,
+    "cap":50.0,
+    "tipo":"Wind",
+    "zona":"Chubut"
+  },
+  {
+    "nombre":"PARQUE EOLICO RAWSON I (ENARSA)",
+    "lat":-43.3522,
+    "lon":-65.1734,
+    "cap":48.6,
+    "tipo":"Wind",
+    "zona":"Chubut"
+  },
+  {
+    "nombre":"PARQUE EOLICO RAWSON II (ENARSA)",
+    "lat":-43.3522,
+    "lon":-65.1734,
+    "cap":28.8,
+    "tipo":"Wind",
+    "zona":"Chubut"
+  },
+  {
+    "nombre":"PASO DE LOS LIBRES",
+    "lat":-29.7148,
+    "lon":-57.0933,
+    "cap":2.135,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"PATAGONIA",
+    "lat":-45.7934,
+    "lon":-67.5145,
+    "cap":123.7,
+    "tipo":"Gas",
+    "zona":"Chubut"
+  },
+  {
+    "nombre":"PERUGORRIA",
+    "lat":-29.34,
+    "lon":-58.6077,
+    "cap":1.11,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"PICO TRUNCADO - JORGE ROMANUTTI",
+    "lat":-46.8065,
+    "lon":-67.9808,
+    "cap":2.4,
+    "tipo":"Wind",
+    "zona":"Santa Cruz"
+  },
+  {
+    "nombre":"PICO TRUNCADO I",
+    "lat":-46.7842,
+    "lon":-67.9498,
+    "cap":45.6,
+    "tipo":"Gas",
+    "zona":"Santa Cruz"
+  },
+  {
+    "nombre":"PIEDRA DEL AGUILA (CPSA)",
+    "lat":-31.6651,
+    "lon":-63.8314,
+    "cap":1400.0,
+    "tipo":"Hydro",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"PIEDRAS MORAS",
+    "lat":-32.1675,
+    "lon":-64.2438,
+    "cap":6.3,
+    "tipo":"Hydro",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"PILAR  BICENTENARIO",
+    "lat":-31.6651,
+    "lon":-63.8314,
+    "cap":467.0,
+    "tipo":"Gas",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"PILAR ZANICHELLI",
+    "lat":-31.6662,
+    "lon":-63.8344,
+    "cap":216.0,
+    "tipo":"Coal",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"PLANICIE BANDERITA",
+    "lat":-28.5339,
+    "lon":-65.7997,
+    "cap":472.0,
+    "tipo":"Hydro",
+    "zona":"Catamarca"
+  },
+  {
+    "nombre":"PLANTA PILOTO FOTOVOLTAICA SAN JUAN 1",
+    "lat":-31.3891,
+    "lon":-68.6752,
+    "cap":1.2,
+    "tipo":"Solar",
+    "zona":"San Juan"
+  },
+  {
+    "nombre":"PRESIDENTE SARMIENTO",
+    "lat":-31.5129,
+    "lon":-68.5399,
+    "cap":31.5,
+    "tipo":"Gas",
+    "zona":"San Juan"
+  },
+  {
+    "nombre":"PUEBLO VIEJO",
+    "lat":-27.1149,
+    "lon":-65.7523,
+    "cap":19.2,
+    "tipo":"Hydro",
+    "zona":"Tucumán"
+  },
+  {
+    "nombre":"PUERTO MADRYN",
+    "lat":-42.7069,
+    "lon":-65.1048,
+    "cap":42.0,
+    "tipo":"Gas",
+    "zona":"Chubut"
+  },
+  {
+    "nombre":"PUERTO NUEVO",
+    "lat":-34.5754,
+    "lon":-58.3788,
+    "cap":589.0,
+    "tipo":"Coal",
+    "zona":"Ciudad Autónoma de Buenos Aires"
+  },
+  {
+    "nombre":"PUNTA ALTA - CENTENARIO",
+    "lat":-38.7833,
+    "lon":-61.8984,
+    "cap":1.8,
+    "tipo":"Wind",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"QUEBRADA DE ULLUM",
+    "lat":-31.2567,
+    "lon":-61.5203,
+    "cap":45.0,
+    "tipo":"Hydro",
+    "zona":"Santa Fe"
+  },
+  {
+    "nombre":"RIO CORRALITO",
+    "lat":-24.983,
+    "lon":-65.686,
+    "cap":13.2,
+    "tipo":"Hydro",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"RIO CUARTO",
+    "lat":-33.1614,
+    "lon":-64.3649,
+    "cap":35.57,
+    "tipo":"Gas",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"RIO GRANDE",
+    "lat":-53.7862,
+    "lon":-67.7222,
+    "cap":750.0,
+    "tipo":"Hydro",
+    "zona":"Tierra del Fuego"
+  },
+  {
+    "nombre":"RIO HONDO",
+    "lat":-27.5225,
+    "lon":-64.8861,
+    "cap":19.0,
+    "tipo":"Hydro",
+    "zona":"Santiago del Estero"
+  },
+  {
+    "nombre":"SALTO ANDERSEN",
+    "lat":-38.8244,
+    "lon":-64.8296,
+    "cap":7.9,
+    "tipo":"Hydro",
+    "zona":"Río Negro"
+  },
+  {
+    "nombre":"SALTO GRANDE (MITAD ARGENTINA)",
+    "lat":-31.3891,
+    "lon":-68.6752,
+    "cap":945.0,
+    "tipo":"Hydro",
+    "zona":"San Juan"
+  },
+  {
+    "nombre":"SAN FRANCISCO",
+    "lat":-31.4391,
+    "lon":-62.1119,
+    "cap":40.0,
+    "tipo":"Gas",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"SAN MARTIN DE LOS ANDES",
+    "lat":-40.1511,
+    "lon":-71.334,
+    "cap":4.218,
+    "tipo":"Oil",
+    "zona":"Neuquén"
+  },
+  {
+    "nombre":"SAN NICOLAS",
+    "lat":-33.3562,
+    "lon":-60.1729,
+    "cap":644.0,
+    "tipo":"Coal",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"SAN PEDRO",
+    "lat":-26.6253,
+    "lon":-54.1102,
+    "cap":2.216,
+    "tipo":"Oil",
+    "zona":"Misiones"
+  },
+  {
+    "nombre":"SAN ROQUE",
+    "lat":-31.3533,
+    "lon":-64.3938,
+    "cap":26.0,
+    "tipo":"Hydro",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"SANTA ISABEL",
+    "lat":-36.2314,
+    "lon":-66.9381,
+    "cap":2.25,
+    "tipo":"Oil",
+    "zona":"La Pampa"
+  },
+  {
+    "nombre":"SANTO TOME",
+    "lat":-28.5497,
+    "lon":-56.0722,
+    "cap":2.684,
+    "tipo":"Oil",
+    "zona":"Corrientes"
+  },
+  {
+    "nombre":"SORRENTO",
+    "lat":-32.9053,
+    "lon":-60.6807,
+    "cap":226.0,
+    "tipo":"Coal",
+    "zona":"Santa Fe"
+  },
+  {
+    "nombre":"SUDOESTE",
+    "lat":-31.463,
+    "lon":-64.2388,
+    "cap":140.0,
+    "tipo":"Gas",
+    "zona":"Córdoba"
+  },
+  {
+    "nombre":"Saujil",
+    "lat":-28.165,
+    "lon":-66.225,
+    "cap":22.5,
+    "tipo":"Solar",
+    "zona":"Catamarca"
+  },
+  {
+    "nombre":"TARTAGAL",
+    "lat":-22.5099,
+    "lon":-63.797,
+    "cap":17.0,
+    "tipo":"Gas",
+    "zona":"Salta"
+  },
+  {
+    "nombre":"TENARIS SIDERCA CETE II",
+    "lat":-33.3655,
+    "lon":-60.1435,
+    "cap":163.2,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"TOSTADO",
+    "lat":-29.2352,
+    "lon":-61.7577,
+    "cap":3.2,
+    "tipo":"Oil",
+    "zona":"Santa Fe"
+  },
+  {
+    "nombre":"ULLUM",
+    "lat":-31.4557,
+    "lon":-68.7556,
+    "cap":42.0,
+    "tipo":"Hydro",
+    "zona":"San Juan"
+  },
+  {
+    "nombre":"URUGUA-I",
+    "lat":-25.8766,
+    "lon":-54.5687,
+    "cap":120.0,
+    "tipo":"Hydro",
+    "zona":"Misiones"
+  },
+  {
+    "nombre":"VENADO TUERTO",
+    "lat":-33.7777,
+    "lon":-61.9555,
+    "cap":9.1,
+    "tipo":"Oil",
+    "zona":"Santa Fe"
+  },
+  {
+    "nombre":"VILLA GESELL",
+    "lat":-37.2487,
+    "lon":-56.9973,
+    "cap":130.0,
+    "tipo":"Gas",
+    "zona":"Buenos Aires"
+  },
+  {
+    "nombre":"VILLA MARIA (LAS PLAYAS)",
+    "lat":-39.0872,
+    "lon":-67.0881,
+    "cap":48.0,
+    "tipo":"Gas",
+    "zona":"Río Negro"
+  },
+  {
+    "nombre":"VUELTA DE OBLIGADO",
+    "lat":-32.5807,
+    "lon":-60.7903,
+    "cap":560.0,
+    "tipo":"Gas",
+    "zona":"Santa Fe"
+  },
+  {
+    "nombre":"YACYRETA",
+    "lat":-27.4827,
+    "lon":-56.7397,
+    "cap":1550.0,
+    "tipo":"Hydro",
+    "zona":"Itapúa"
+  }
+]
