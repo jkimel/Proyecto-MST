@@ -15,11 +15,22 @@ Sistema de optimización de infraestructura eléctrica basado en el **Algoritmo 
 
 ### A. Procesamiento de Datos (Backend)
 1. Abrir terminal en la carpeta `backend/`.
-2. Instalar dependencias:
+2. Crear y activar el entorno virtual:
+Windows:
+    ```bash
+    python -m venv venv
+    .\venv\Scripts\activate
+    ```
+macOS/Linux:
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+3. Instalar dependencias:
    ```bash
    pip install -r requirements.txt
    ```
-1. Generar el dataset procesado:
+4. Generar el dataset procesado:
    ```bash
    python convertidor.py
    ```
