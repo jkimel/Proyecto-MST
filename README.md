@@ -31,10 +31,6 @@ Sistema de optimización de infraestructura eléctrica basado en el **Algoritmo 
    ```bash
    pip install -r requirements.txt
    ```
-4. Generar el dataset procesado:
-   ```bash
-   python convertidor.py
-   ```
 ### B. Interfaz Visual (Frontend)
 1. Abrir terminal en la carpeta frontend_react/.
 2. Instalar dependencias:
